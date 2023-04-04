@@ -1,4 +1,4 @@
-#Ingresos y Gastos función
+#Crea una función que calcule el beneficio neto de una empresa en función de sus ingresos y gastos.  5Pts
 def benefit(total, cost):
     benefit = cost - total
     print("El beneficio total de las ventas es de: ", benefit)

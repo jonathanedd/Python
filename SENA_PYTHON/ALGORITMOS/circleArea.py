@@ -1,3 +1,4 @@
+#Crea una función que calcule el área de un círculo dado su radio. 3Pts
 def circleArea(diam):
     pi = 3.1416
     perimeter = diam * pi
