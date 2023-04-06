@@ -85,7 +85,7 @@ if select_req1 == 1 and len(requires) and select_req2 == 2 and len(requires):
     2. Cancel
     """)
 
-# An inut to submit or cancel 
+# An input to submit or cancel 
 submit = int(input())
 
 if submit == 1:
